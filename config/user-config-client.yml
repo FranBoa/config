@@ -5,7 +5,7 @@ spring:
 
 ---
 spring: 
-   profiles: dev   #¿ª·¢»·¾³
+   profiles: dev   #å¼€å‘ç¯å¢ƒ
    application: 
       name: user-config-client
 server:
@@ -17,7 +17,7 @@ eureka:
 
 ---
 spring:
-   profiles: test    #²âÊÔ»·¾³
+   profiles: test    #æµ‹è¯•ç¯å¢ƒ
    application: 
       name: user-config-client
 server:
